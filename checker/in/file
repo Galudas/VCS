@@ -1,0 +1,7 @@
+touch a
+ls
+vcs status
+vcs rollback
+vcs status
+ls
+exit
