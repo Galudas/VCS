@@ -1,4 +1,4 @@
-README TEMA 2 POO
+
 	In context, am 2 situatii : daca am comanda de vcs, imi voi parsa datele necesare in clasa vcs(pentru toate comenzile de vcs, eu am ales sa imi pun tot ce am nevoie : msj commit, nume branch creat etc, in vcs deoarece mi-a fost mult mai usor sa lucrez cu comenzile de vcs), iar daca am comanda "trackable" imi voi parsa din nou in vcs datele necesare (nume fisier , nume director etc);
 	Am adaugat si in clasele OperationFactory,OperationParser,OperationType toate datele necesare pentru a putea lua in considerare toate comenzile de vcs.
 	De asemenea, am creat si clasa InvalidVcsOperation pentru situatia in care se parseaza din input o comanda invalida(ex : vcs master)
